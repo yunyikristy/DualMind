@@ -171,12 +171,17 @@ This repository is built using the [timm](https://github.com/rwightman/pytorch-i
 
 ## License and Citation:
 
-This project is licensed under the terms of the MIT license. By using the software, you are agreeing to the terms of
-the [license agreement](LICENSE).
 If you use this code in your research, please cite our work as follows:
 
 ```bibtex
-
+@misc{wei2023imitation,
+      title={Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training}, 
+      author={Yao Wei and Yanchao Sun and Ruijie Zheng and Sai Vemprala and Rogerio Bonatti and Shuhang Chen and Ratnesh Madaan and Zhongjie Ba and Ashish Kapoor and Shuang Ma},
+      year={2023},
+      eprint={2307.07909},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
 ```
 
 
