@@ -174,13 +174,11 @@ This repository is built using the [timm](https://github.com/rwightman/pytorch-i
 If you use this code in your research, please cite our work as follows:
 
 ```bibtex
-@misc{wei2023imitation,
-      title={Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training}, 
-      author={Yao Wei and Yanchao Sun and Ruijie Zheng and Sai Vemprala and Rogerio Bonatti and Shuhang Chen and Ratnesh Madaan and Zhongjie Ba and Ashish Kapoor and Shuang Ma},
-      year={2023},
-      eprint={2307.07909},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{wei2023imitation,
+  title={Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training},
+  author={Wei, Yao and Sun, Yanchao and Zheng, Ruijie and Vemprala, Sai and Bonatti, Rogerio and Chen, Shuhang and Madaan, Ratnesh and Ba, Zhongjie and Kapoor, Ashish and Ma, Shuang},
+  journal={arXiv preprint arXiv:2307.07909},
+  year={2023}
 }
 ```
 
