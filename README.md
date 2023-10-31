@@ -141,7 +141,7 @@ Note that if --metaworld_file_path or --habitat_file_path is not specified, the 
 
 ## Pretrained models
 
-Download the pretrained model from here: [multidomain](), [metaworld]() and [habitat]()
+Download the pretrained model from here: [DualMind](https://huggingface.co/Clumsy1/DualMind/).
 
 ## Evaluation
 
